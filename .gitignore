@@ -61,7 +61,7 @@ Thumbs.db
 **/node_modules
 **/node_modules/**
 
-# sass cache folder and bourbon/neat
+# sass cache folder
 **/.sass-cache
 **/.sass-cache/*
 **.sass-cache**
