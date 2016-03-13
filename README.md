@@ -1,2 +1,4 @@
-# wp_gitignore
-Gitignore for WordPress project
+# WP Gitignore
+
+Default .gitignore for WordPress project.
+To be added in pre wordpress root folder.
